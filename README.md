@@ -15,3 +15,7 @@ Hive Helsinki's first pair project which objective is to code a program to find 
 - ✅ Completed on **07/03/2022**
 - ✅ Score: **100/100**
 - ✅ Retires: **1** after one peer evaluation. Found an edge case where an invalid map was accepted as valid.
+
+## Tester
+
+I have created a tester for this project: [filli_tester](https://github.com/peetuskytta/fillit_tester.git)
