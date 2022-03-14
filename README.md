@@ -18,4 +18,4 @@ Hive Helsinki's first pair project which objective is to code a program to find 
 
 ## Tester
 
-I have created a tester for this project: [filli_tester](https://github.com/peetuskytta/fillit_tester.git)
+I have created a tester for this project: [fillit_tester](https://github.com/peetuskytta/fillit_tester.git)
